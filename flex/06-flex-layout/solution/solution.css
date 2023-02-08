@@ -58,6 +58,8 @@ a {
 }
 
 .footer {
+  display: flex;
+  align-items: center;
   background: #eee;
 }
 
